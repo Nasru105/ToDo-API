@@ -61,14 +61,6 @@ The API will be available at `http://127.0.0.1:8000`.
 
 After running the server, you can explore the API documentation via the interactive Swagger UI at `http://127.0.0.1:8000/docs`.
 
-
-## Future Enhancements
-
-- Add task categorization (e.g., work, personal, shopping).
-- Implement task priority levels.
-- Enable task due dates and reminders.
-- Add OAuth2 social login (Google, GitHub, etc.).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
