@@ -1,0 +1,3 @@
+DATABASE_URL = "sqlite:///./test.db"
+SECRET_KEY = "a8f6f6e4cf69403e8a38f8f7a3c7114d"
+ALGORITHM = "HS256"
