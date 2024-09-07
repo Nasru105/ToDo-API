@@ -61,10 +61,6 @@ The API will be available at `http://127.0.0.1:8000`.
 
 After running the server, you can explore the API documentation via the interactive Swagger UI at `http://127.0.0.1:8000/docs`.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
-Feel free to modify any section based on your actual implementation and goals!
+(https://roadmap.sh/projects/todo-list-api)
