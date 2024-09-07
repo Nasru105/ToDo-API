@@ -63,4 +63,4 @@ After running the server, you can explore the API documentation via the interact
 
 ---
 
-(https://roadmap.sh/projects/todo-list-api)
+https://roadmap.sh/projects/todo-list-api
