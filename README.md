@@ -57,10 +57,6 @@ This is a simple yet powerful ToDo List API built using **FastAPI**, allowing us
 
 The API will be available at `http://127.0.0.1:8000`.
 
-### Documentation
-
-After running the server, you can explore the API documentation via the interactive Swagger UI at `http://127.0.0.1:8000/docs`.
-
 ---
 
 https://roadmap.sh/projects/todo-list-api
