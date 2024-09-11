@@ -35,8 +35,8 @@ This is a simple yet powerful ToDo List API built using **FastAPI**, allowing us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-api.git
-   cd todo-list-api
+   git clone  https://github.com/Nasru105/ToDo_API.git
+   cd ToDo_API
    ```
 
 2. Create and activate a virtual environment:
